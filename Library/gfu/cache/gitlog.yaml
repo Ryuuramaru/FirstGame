@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
+<<<<<<< HEAD
   lastUpdatedAtString: 2020-07-24T00:59:13.210+03:00
   initializedAtString: 2020-07-24T00:07:43.425+03:00
   log:
@@ -20440,6 +20441,11 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
+=======
+  lastUpdatedAtString: 2020-07-24T00:51:04.127+03:00
+  initializedAtString: 2020-07-24T00:07:43.425+03:00
+  log:
+>>>>>>> try
   - commitID: fab128781473829b6cb2bf2360b0121d87046153
     mergeA: 
     mergeB: 
