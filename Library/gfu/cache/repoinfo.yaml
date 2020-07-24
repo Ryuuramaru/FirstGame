@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-07-24T00:39:02.191+03:00
-  initializedAtString: 2020-07-24T00:07:43.369+03:00
+  lastUpdatedAtString: 2020-07-24T22:18:55.366+03:00
+  initializedAtString: 2020-07-24T22:18:55.366+03:00
   currentGitRemote:
     name: origin
     url: https://github.com/Ryuuramaru/FirstGame.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: try
-    tracking: origin/try
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: try
+    name: master
     remote:
       name: origin
       url: https://github.com/Ryuuramaru/FirstGame.git
-    trackingBranch: try
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/Ryuuramaru/FirstGame.git

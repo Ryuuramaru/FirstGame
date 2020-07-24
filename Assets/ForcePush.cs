@@ -31,7 +31,7 @@ public class ForcePush : MonoBehaviour
         if (Input.GetButtonDown("Push") && Physics.Raycast(transform.position, transform.forward, out hit, 15f))
         {
             if (hit.collider.CompareTag("Pushable"))
-                hit.collider.gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * force * 0.25f, ForceMode.Impulse); //gittest
+                hit.collider.gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up * force * 0.25f, ForceMode.Impulse); 
         }
     }
 }

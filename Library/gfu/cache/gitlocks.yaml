@@ -13,10 +13,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 7
-<<<<<<< HEAD
-  lastUpdatedAtString: 2020-07-24T00:59:13.063+03:00
-=======
-  lastUpdatedAtString: 2020-07-24T00:50:57.167+03:00
->>>>>>> try
-  initializedAtString: 2020-07-24T00:07:43.726+03:00
+  lastUpdatedAtString: 2020-07-24T22:21:53.083+03:00
+  initializedAtString: 2020-07-24T22:18:56.302+03:00
   gitLocks: []
